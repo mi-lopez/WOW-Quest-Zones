@@ -1,0 +1,13 @@
+## Interface: 11500
+## Title: Quest Zones
+## Title-esES: Zonas de Quest
+## Title-esMX: Zonas de Quest
+## Notes: Shows available quest zones for your level
+## Notes-esES: Muestra las zonas de quest disponibles para tu nivel
+## Notes-esMX: Muestra las zonas de quest disponibles para tu nivel
+## SavedVariables: QuestZonesDB
+## Author: Aenima
+## Version: 1.0
+
+localization.lua
+main.lua
